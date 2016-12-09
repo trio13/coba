@@ -1,0 +1,13 @@
+
+.box {
+	background-color: #eee;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 30px;
+}
+.box .action {
+	margin-top: 10px;
+}
+.img-avatar {
+	padding: 15px;
+}
